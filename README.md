@@ -7,6 +7,7 @@
   
 ### Frontend:
   - React
+  - Bootstrap
 
 ---
 ![screenshot](screenshot/screenshot.png)
