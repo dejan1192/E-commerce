@@ -2,9 +2,9 @@
 
 ---
 
-###Backend:
+### Backend:
   - NodeJS
   - MongoDB
   
-###Frontend:
+### Frontend:
   - React
